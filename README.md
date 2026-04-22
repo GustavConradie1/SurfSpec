@@ -7,6 +7,10 @@ The below image shows the 1000th eigenvalue of the Laplace-Beltrami operator on 
 <img src="https://github.com/GustavConradie1/SurfSpec/blob/main/img/tric_efun_1000.png" width=100% height=100% alt>
 </p>
 
+## Dependencies
+
+The code requires chebfun (https://www.chebfun.org/) and surfacefun (https://surfacefun.readthedocs.io/en/latest/) as dependencies.
+
 ## :open_book: Citation
 If you find this work useful in your research, please consider citing:
 
