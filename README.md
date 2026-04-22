@@ -2,7 +2,7 @@
 The repository contains the code for the paper [Computing Spectral Properties of Differential Operators on Surfaces](https://arxiv.org/abs/tbd) by Gustav Conradie, Matthew Colbrook and Dan Fortunato.
 
 <p align="center">
-<img src="https://github.com/GustavConradie1/TrustKoopman/blob/main/img/tric_efun_1000.png" width=100% height=100% alt>
+<img src="https://github.com/GustavConradie1/SurfSpec/blob/main/img/tric_efun_1000.png" width=100% height=100% alt>
 </p>
 
 ## :open_book: Citation
