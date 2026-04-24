@@ -9,7 +9,7 @@ The below image shows the 1000th eigenvalue of the Laplace-Beltrami operator on 
 
 ## :package: Dependencies
 
-The code uses chebfun (https://www.chebfun.org/) and surfacefun (https://surfacefun.readthedocs.io/en/latest/).
+The code uses chebfun (https://www.chebfun.org/) and surfacefun (https://surfacefun.readthedocs.io/en/latest/). The infinite surface example also uses chunkie (https://chunkie.readthedocs.io/en/latest/).
 
 ## :open_book: Citation
 If you find this work useful in your research, please consider citing:
