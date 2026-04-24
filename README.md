@@ -1,5 +1,5 @@
 # SurfSpec
-The repository contains the code for the paper [Computing Spectral Properties of Differential Operators on Surfaces] by Gustav Conradie, Matthew Colbrook and Dan Fortunato.
+The repository contains the code for the paper Computing Spectral Properties of Differential Operators on Surfaces by Gustav Conradie, Matthew Colbrook and Dan Fortunato.
 
 The below image shows the 1000th eigenvalue of the Laplace-Beltrami operator on a triceratops mesh, computed using the code developed in this paper.
 
