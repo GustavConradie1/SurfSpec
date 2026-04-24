@@ -15,7 +15,7 @@ function [poles,res] = rationalKernel(m,type)
     elseif type=="equi"
         z=1i+(2*(1:m)/(m+1)-1);
     end
-    if type=="equi" && m<7 %Hard-coded kernels
+    if type=="equi" && m<7 %Hard-coded kernels from table of the paper
         if m==1
             res=1;
         elseif m==2
